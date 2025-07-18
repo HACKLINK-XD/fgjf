@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: SERVICE_NAME_PLACEHOLDER
+    env: node
+    buildCommand: npm install
+    startCommand: npm start
+    plan: free
