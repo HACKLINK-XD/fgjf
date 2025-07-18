@@ -1,0 +1,8 @@
+{
+  "name": "SERVICE_NAME_PLACEHOLDER",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
